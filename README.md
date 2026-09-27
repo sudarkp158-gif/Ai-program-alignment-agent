@@ -20,11 +20,11 @@ The goal is to use AI as a force multiplier for better decisions, faster executi
 improved stakeholder visibility.
 
 Repository demonstrates below usescases
-ai-program-risk-agent	- AI + risk management
-ai-raid-assistant -	LLM + program management
-ai-executive-status-generator	- AI + executive communication
-ai-release-readiness - AI + SDLC
-program-dependency-analyzer	- Graph/data + technical PM
-program-knowledge-rag	- RAG + architecture
-ai-requirements-analyzer	- Requirements + GenAI
-program-health-dashboard	- Data + KPIs + visualization
+1. ai-program-risk-agent	- AI + risk management
+2. ai-raid-assistant -	LLM + program management
+3. ai-executive-status-generator	- AI + executive communication
+4. ai-release-readiness - AI + SDLC
+5. program-dependency-analyzer	- Graph/data + technical PM
+6. program-knowledge-rag	- RAG + architecture
+7. ai-requirements-analyzer	- Requirements + GenAI
+8. program-health-dashboard	- Data + KPIs + visualization
