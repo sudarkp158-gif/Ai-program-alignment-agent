@@ -1,6 +1,6 @@
 # TPM-Automation
-I am a Staff Technical Program Manager focused on large-scale
-technology programs across software, AI/ML, cloud, data platforms and B2B/B2C SAAS.
+My IT experience spans across large-scale
+technology programs covering software, AI/ML, cloud, data platforms and B2B/B2C SAAS.
 
 This GitHub showcases practical prototypes exploring how AI and
 automation can improve technical program management, including:
