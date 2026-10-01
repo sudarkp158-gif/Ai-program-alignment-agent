@@ -1,25 +1,36 @@
-# TPM-Automation
-My IT experience spans across large-scale
-technology programs covering software, AI/ML, cloud, data platforms and B2B/B2C SAAS.
+# ai-program-alignment-agent
 
-This GitHub showcases practical prototypes exploring how AI and
-automation can improve technical program management, including:
+This Ai Agent showcases AI-powered Technical Program Management that aligns cross-functional organizations around a common North Star Metric and evaluates competing program resolutions using the RICE prioritization framework.
 
-• AI-assisted risk and dependency management
-• Automated program status reporting
-• Requirements and decision analysis
-• RAID intelligence
-• Engineering delivery analytics
-• AI-powered executive reporting
-• Release readiness assessment
-• RAG-based program knowledge assistants
-• Program metrics and forecasting
-• AI governance and human-in-the-loop workflows
+# High Level Architecture
 
-The goal is to use AI as a force multiplier for better decisions, faster execution and
-improved stakeholder visibility.
+```text
+                  User Input
+                      │
+                      ▼
+              ┌───────────────┐
+              │ LLM Analysis  │
+              └───────┬───────┘
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+          ▼                       ▼
+    Metric Analysis         Resolution Analysis
+          │                       │
+          ▼                       ▼
+  Candidate Metrics          RICE Inputs
+          │                       │
+          ▼                       ▼
+     AI Reasoning          Python Calculation
+          │                       │
+          └───────────┬───────────┘
+                      ▼
+              ┌───────────────┐
+              │ Final Report  │
+              └───────────────┘
+```
 
-Repository demonstrates below usescases
+Possible future Ai agent based usescases
 1. ai-program-risk-agent	- AI + risk management
 2. ai-raid-assistant -	LLM + program management
 3. ai-executive-status-generator	- AI + executive communication
